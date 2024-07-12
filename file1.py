@@ -1,3 +1,4 @@
 print("This is the sample program")
-name=input("Enter your name:")
+#reading the name
+name=inputt("Enter your name:")
 print(f"Welcome {name} to python programinig")
